@@ -1,0 +1,7 @@
+# 统一文本换行符为 LF，避免跨平台差异与警告
+* text=auto eol=lf
+
+# 二进制文件不转换
+*.png binary
+*.jpg binary
+*.jar binary

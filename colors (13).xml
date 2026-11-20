@@ -1,0 +1,29 @@
+<resources>
+    <color name="bg">#101113</color>
+    <color name="surface">#1A1B1E</color>
+    <color name="surface_alt">#23252A</color>
+    <color name="surface_press">#2C2F35</color>
+    <color name="text">#ECEDEF</color>
+    <color name="text_secondary">#A2A7B0</color>
+    <color name="text_tertiary">#767C86</color>
+    <color name="brand">#7C93FF</color>
+    <color name="brand_dark">#6B82F2</color>
+    <color name="brand_soft">#1D2438</color>
+    <color name="brand_soft_2">#252E47</color>
+    <color name="divider">#2A2C31</color>
+    <color name="bubble_user">#4D6BFE</color>
+    <color name="bubble_user_press">#3F5BEA</color>
+    <color name="warning_bg">#2A2114</color>
+    <color name="warning_line">#4A3A1D</color>
+    <color name="warning_text">#F2C879</color>
+    <color name="danger">#FF6B70</color>
+    <color name="danger_soft">#331A1B</color>
+    <color name="success">#4BD39B</color>
+    <color name="code_bg">#15161A</color>
+    <color name="code_header">#1F2126</color>
+    <color name="scrim">#99000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="ic_launcher_background">#4D6BFE</color>
+</resources>

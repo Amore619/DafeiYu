@@ -1,0 +1,41 @@
+# ===== Gradle / 构建产物 =====
+.gradle/
+build/
+app/build/
+**/build/
+*.apk
+*.aab
+*.idsig
+*.ap_
+
+# ===== 本地环境配置（含个人 SDK 路径，绝不上传）=====
+local.properties
+
+# ===== 签名密钥（安全红线：泄露会导致他人冒充签名）=====
+*.jks
+*.keystore
+keystore.properties
+signing.properties
+
+# ===== IDE / 编辑器 =====
+*.iml
+.idea/
+.vscode/
+.DS_Store
+*.swp
+
+# ===== 日志与临时文件 =====
+*.log
+build_log.txt
+崩溃日志*.txt
+*.tmp
+*.bak
+
+# ===== Android 原生 =====
+captures/
+.externalNativeBuild/
+.cxx/
+.freeline/
+
+# ===== 本仓库专属：备份与导出产物 =====
+*.dfy
